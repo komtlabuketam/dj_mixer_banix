@@ -1,7 +1,121 @@
 {
   "data": {
     "app_config": {
-      "ad_flow_script": "CTR_SPAM"
+      "ad_flow_script": "CTR_SPAM",
+      "ad_key": [
+        {
+          "name": "app_open_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_id1",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_id2",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_tut_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_tut_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_splash_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_splash_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_language_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_language_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_home_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_mixer_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_mixer_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_music_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_music_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_drumpad_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_drumpad_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_ludwing_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_ludwing_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_exit_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_drumpad_menu_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_inter_electric_drum_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_electric_drum_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_banner_mixer_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "med_native_full_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_open_id_1",
+          "isEnabled": "true"
+        },
+        {
+          "name": "app_open_2_id",
+          "isEnabled": "true"
+        }
+      ]
     }
   },
   "meta": {

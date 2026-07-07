@@ -5,8 +5,8 @@
         "what_news": "-New version\n-Bug fixeds",
         "force_update": "true",
         "package_name": "com.banix.musicmixer.djmixer",
-        "version_code": 30,
-        "version_name": "3.9",
+        "version_code": 32,
+        "version_name": "4.1",
         "new_package_name": "com.banix.musicmixer.djmixer"
       }
     ]

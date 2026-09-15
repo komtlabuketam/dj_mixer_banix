@@ -129,11 +129,11 @@
         },
         {
           "name": "native_info_3_id",
-          "isEnabled": "true"
+          "isEnabled": "false"
         },
         {
           "name": "native_info_3_id2",
-          "isEnabled": "true"
+          "isEnabled": "false"
         }
       ]
     }
